@@ -22,9 +22,9 @@ Running the app from command line
 
 ![Screenshot for Command line](/screenshots/command-line.png?raw=true "Command line")
 
-Web application demo page
+Web application demo: page
 
 ![Screenshot for demo](/screenshots/demo1.png?raw=true "Demo")
 
-Web application demo page with trailer
+Web application demo: page with trailer
 ![Screenshot for demo](/screenshots/demo2.png?raw=true "Demo")
