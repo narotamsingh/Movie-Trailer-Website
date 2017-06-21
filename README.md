@@ -1,8 +1,11 @@
 # Movie Trailer Website
-It is a server-side code written in Python to store a list of your favorite movies, including imagery and a movie trailer URL. This code is used to generate a static web page allowing visitors to browse movies and watch the trailers.
+It is a server-side code written in Python to store a list of your favorite movies, including imagery and a movie trailer URL. 
+This code is used to generate a static web page allowing visitors to browse movies and watch the trailers.
 
 ## Description
-Store your favorite movie information such as movie `titles`,  `movie poster URL` and `movie trailer URL` in file `entertainment_center.py` as instances of Python Class (Movie from media (`media.py`)). Once all the information is stored, a function called `open_movies_page` from starter code repository (ud036_StarterCode) that contains a Python module called `fresh_tomatoes.py` takes one argument, which is a list of movies, and creates an HTML file which will display all of your favorite movies and by clicking on a poster you can watch their trailers.
+Store your favorite movie information such as movie `titles`,  `movie poster URL` and `movie trailer URL` in file `entertainment_center.py` as instances of Python Class (Movie from media (`media.py`)). Once all the information is stored, 
+a function called `open_movies_page` from starter code repository (ud036_StarterCode) that contains a Python module called `fresh_tomatoes.py` takes one argument, which is a list of movies, and creates an HTML file which will display all of your 
+favorite movies and by clicking on a poster you can watch their trailers.
 ## Usage
 
 Take a clone of this repository and go to the cloned directory
